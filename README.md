@@ -1,12 +1,26 @@
 - 👋 Hi, I’m @Dimpalchauragade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Education-BCA Graduate
+- I'm Intereseted in
+- Data Analysis
+- Web Development
+- I'm currently learning
+- Excel(Advanced)
+- SQL
+- Python for Data Analysis
+- Tableau / Poewr BI
+- HTML,CSS,JavaScript
+- I'm Looking to collaborate on
+- Begginer-friendly data analysis projects
+- Web Development projects
+- Open-Source projects
+- How to Reach me
+- Email:dimpalchauragade28@gmail.com
+- LinkedIn:https://www.linkedin.com/posts/mohit-mishra-007h_sql-interview-question-ugcPost-7353457523665846273-HIYt?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEdnITUB0LUrv7POwAMPCk8z0pLIcd9JKyk&utm_campaign=whatsapp
+- Skills
+- MS Excel|SQL|Python
+- Tableau|PowerBI
+- HTMl|CSS|JavaScript
+- Fun Fact
+- I enjoy learning new technologies and improving my Skills everyday.
+- 
 
-<!---
-Dimpalchauragade/Dimpalchauragade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
